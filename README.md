@@ -1,7 +1,10 @@
 # Find-max-value-and-sum-values
-import java.util.Scanner;
 
-public class FileProcess {
+
+
+    import java.util.Scanner;
+
+    public class FileProcess {
 
     public static void main(String[] args) {
 
